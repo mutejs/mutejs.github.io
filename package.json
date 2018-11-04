@@ -1,0 +1,21 @@
+{
+  "name": "@mutejs/site",
+  "version": "1.0.0",
+  "description": "Documentation for MUTE",
+  "scripts": {
+    "build": "sitedown -b ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutejs/mutejs.github.io.git"
+  },
+  "author": "Todd Kennedy <todd@selfassembled.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mutejs/mutejs.github.io/issues"
+  },
+  "homepage": "https://github.com/mutejs/mutejs.github.io#readme",
+  "dependencies": {
+    "sitedown": "^3.3.1"
+  }
+}
